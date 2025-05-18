@@ -3,7 +3,7 @@ public class AddOne
 {
   public static void main(String[] args) {
     // input
-    int n = 10;
+    int n = 25;
  
     // adding 1 to a given number and print the output
     // one line solution
