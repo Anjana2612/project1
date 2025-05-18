@@ -1,5 +1,5 @@
 import java.util.function.IntUnaryOperator
-public class sub 
+
   public static void main(String[] args) {
     // input
     input
